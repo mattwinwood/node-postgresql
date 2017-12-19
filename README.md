@@ -10,3 +10,10 @@ Follow the instructions for your platform [here](https://postgresapp.com).
 npm install
 ````
 
+3. Create Databases
+````
+npm run configure
+pw: admin
+````
+
+
