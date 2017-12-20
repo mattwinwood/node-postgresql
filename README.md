@@ -10,10 +10,15 @@ Follow the instructions for your platform [here](https://postgresapp.com).
 npm install
 ````
 
-3. Create Databases
+3. Create Databases, User, Seed DB
 ````
 npm run configure
-pw: admin
+user: node_user pw: admin
+````
+
+4. Run
+````
+npm run dev
 ````
 
 
