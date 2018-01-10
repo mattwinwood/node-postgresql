@@ -22,9 +22,20 @@ npm run dev
 ````
 
 5. Example API Routes
+
+Lord of the Rings Example
 ````
-http://localhost:3000/api/monsters
-http://localhost:3000/api/lotr
+ttp://localhost:3000/api/lotr
+http://localhost:3000/api/lotr/allies
+http://localhost:3000/api/lotr/guardians
+http://localhost:3000/api/lotr/elves
+http://localhost:3000/api/lotr/hobbits
+http://localhost:3000/api/lotr/wizards
 ````
 
+Monster Example
+````
+http://localhost:3000/api/monsters
+http://localhost:3000/api/monsters/habitats
+http://localhost:3000/api/monsters/residence
 
