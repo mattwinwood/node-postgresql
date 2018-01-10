@@ -1,6 +1,6 @@
 #!/bin/bash
 export PGPASSWORD='admin'
-export PGUSER ='node_user'
+export PGUSER='node_user'
 
 #Readability
 defaultUser="node_user"

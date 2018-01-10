@@ -21,4 +21,10 @@ user: node_user pw: admin
 npm run dev
 ````
 
+5. Example API Routes
+````
+http://localhost:3000/api/monsters
+http://localhost:3000/api/lotr
+````
+
 
