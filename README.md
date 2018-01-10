@@ -23,7 +23,7 @@ npm run dev
 
 5. Example API Routes
 
-Lord of the Rings Example
+• Lord of the Rings Example
 ````
 ttp://localhost:3000/api/lotr
 http://localhost:3000/api/lotr/allies
@@ -33,7 +33,7 @@ http://localhost:3000/api/lotr/hobbits
 http://localhost:3000/api/lotr/wizards
 ````
 
-Monster Example
+• Monster Example
 ````
 http://localhost:3000/api/monsters
 http://localhost:3000/api/monsters/habitats
